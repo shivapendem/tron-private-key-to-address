@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/shivapendem/tron-private-key-to-address.git"
   },
-"dependencies": {
+  "dependencies": {
     "ethereum-private-key-to-address": "^0.0.7",
-    "tronweb": "^4.1.0",
+    "tronweb": "^4.1.0"
   },
   "keywords": [
     "tron",
-    "privatekey"
+    "privatekey",
+    "tron-private-key-to-address",
+    "shivapendem"
   ],
   "author": "shivapendem",
   "license": "ISC",

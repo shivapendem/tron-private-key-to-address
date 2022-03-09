@@ -1,0 +1,27 @@
+{
+  "name": "tron-private-key-to-address",
+  "version": "1.0.0",
+  "description": "Tron Private Key to Address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivapendem/tron-private-key-to-address.git"
+  },
+"dependencies": {
+    "ethereum-private-key-to-address": "^0.0.7",
+    "tronweb": "^4.1.0",
+  },
+  "keywords": [
+    "tron",
+    "privatekey"
+  ],
+  "author": "shivapendem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivapendem/tron-private-key-to-address/issues"
+  },
+  "homepage": "https://github.com/shivapendem/tron-private-key-to-address#readme"
+}

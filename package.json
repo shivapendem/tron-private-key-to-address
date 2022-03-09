@@ -1,6 +1,6 @@
 {
   "name": "tron-private-key-to-address",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tron Private Key to Address",
   "main": "index.js",
   "scripts": {
